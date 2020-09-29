@@ -15,6 +15,6 @@ One landing page designed with details for all your devices
 
 
 ## Showcase
-![TinDog](https://imgflip.com/gif/4gnwu3)
+![TinDog](https://imgflip.com/gif/4gnwu3.gif)
 
 
